@@ -1,0 +1,29 @@
+.page-footer {
+    background-color: rgba(79, 79, 190, 0.37);
+}
+
+body {
+    background-image: linear-gradient(to right bottom, rgba(126,213,111,0.8), rgba(40,180,133,0.8)),url(../img/map3.svg);
+    background-size: cover;
+    background-position: top;
+    position: relative;
+}
+
+#searchResult {
+    margin: 1rem 2rem;
+    padding: 2rem 3rem;
+    background-color: rgba(0, 128, 0, 0.39);
+}
+
+#AmaderRail {
+    margin-bottom: 0;
+    background-color: rgba(0, 128, 0, 0.39);
+}
+
+.bg-dark {
+    background-color: rgba(255, 0, 0, 0.8) !important;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
